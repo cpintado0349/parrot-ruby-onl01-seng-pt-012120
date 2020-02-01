@@ -3,4 +3,5 @@
 def parrot(prhase = "Squawk!")
   puts "Squawk!"
   return "Squawk!"
+  "Squawk!"
 end
